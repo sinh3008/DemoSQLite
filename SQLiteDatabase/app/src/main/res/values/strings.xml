@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SQLiteDatabase</string>
+    <string name="user_application">User Application</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="add_user">Add User</string>
+    <string name="view_all">View All</string>
+    <string name="get_more_tutorial">Get More Tutorial</string>
+    <string name="add_user_main">Add User</string>
+    <string name="form_user_application">User Application</string>
+    <string name="name_form">Name</string>
+    <string name="mobile_number_form">Mobile Number</string>
+    <string name="email_address_form">Email Address</string>
+    <string name="save_update_form">Save Update</string>
+    <string name="view_all_form">View All</string>
+    <string name="id">Id</string>
+    <string name="h_v_t_n">Họ và tên</string>
+    <string name="s_i_n_tho_i">Số điện thoại</string>
+    <string name="email">Email</string>
+    <string name="load_data">Load Data</string>
+</resources>
